@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42020486442",
+    "project_id": "datainfo-8e9c5",
+    "storage_bucket": "datainfo-8e9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42020486442:android:68ab4bb0a1da3f9144b253",
+        "android_client_info": {
+          "package_name": "org.codeforiraq.zakat_alfitr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42020486442-4p72lnbn9hn18bbb3nm05fdit06prr82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2rpJEZkiazndJRYcdE1atVcrsLdXT64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42020486442-4p72lnbn9hn18bbb3nm05fdit06prr82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
